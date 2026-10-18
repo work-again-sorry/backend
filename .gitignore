@@ -8,8 +8,6 @@ logs
 npm-debug.log*
 
 # env
-.env
-.env.local
 
 # coverage
 /coverage
@@ -17,7 +15,7 @@ npm-debug.log*
 
 # IDE
 .idea
-.vscode
 
 # OS
 .DS_Store
+config.bat
