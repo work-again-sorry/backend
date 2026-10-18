@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/update-organization",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/update-organization": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/update-organization",
+    "origin"
+  ]
+}
